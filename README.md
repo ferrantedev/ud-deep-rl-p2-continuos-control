@@ -36,7 +36,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 2. Open the terminal and navigate to the p2_navigation folder
 
-3. Execute pip install -r requirements.txt, this command will install all the dependencies
+3. Execute `pip install -r requirements.txt`, this command will install the required dependencies
 
 4. Start the Jupyter notebook by running the command jupyter notebook, a new browser tab/window will open with the running notebook
 
